@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "meta": {
+    "rss": "https://github.com/itshax/HeliosLauncher/commits/master.atom",
+    "discord": {
+      "clientId": "123456789012345678",
+      "smallImageText": "Serveur RP",
+      "smallImageKey": "logo"
+    }
+  }
+}

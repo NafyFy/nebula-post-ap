@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///C:/Users/brewe/Desktop/Crea/LauncherMC/Nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "post-ap-rp",
+    "description": "Serveur Post-Apocalypse 1.20.1",
+    "icon": null,
+    "address": "127.0.0.1:25565",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}
