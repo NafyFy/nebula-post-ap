@@ -433,7 +433,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29553,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
             "MD5": "9a6776ce2deab597d198e8755daa56ff"
           }
         },
@@ -443,7 +443,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15906,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/almanac-1.20.x-forge-1.0.2.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/almanac-1.20.x-forge-1.0.2.jar",
             "MD5": "20f9b054f4caceebda02847c149901af"
           }
         },
@@ -453,7 +453,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 36703,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/alternate_current-mc1.20-1.7.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/alternate_current-mc1.20-1.7.0.jar",
             "MD5": "43d4d8efddfa77a80aa7b1ae1a04ab48"
           }
         },
@@ -463,7 +463,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 264951,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/async-locator-forge-1.20-1.3.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/async-locator-forge-1.20-1.3.0.jar",
             "MD5": "8b5e3d0c39d567a44f269439f880b444"
           }
         },
@@ -473,7 +473,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 460234,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/BadOptimizations-2.4.1-1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/BadOptimizations-2.4.1-1.20.1.jar",
             "MD5": "f8dd994ef309213c5dae5cbeef53123c"
           }
         },
@@ -483,7 +483,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19170905,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
             "MD5": "6ebc5c57638c1678359eac65b924c310"
           }
         },
@@ -493,7 +493,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
@@ -503,7 +503,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 402345,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
             "MD5": "f8df69d0af455b6f47acb88ab747d1a3"
           }
         },
@@ -513,7 +513,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -523,7 +523,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1569588,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/entityculling-forge-1.9.5-mc1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/entityculling-forge-1.9.5-mc1.20.1.jar",
             "MD5": "9de621a952ae3f73774bad91e6f4c718"
           }
         },
@@ -533,7 +533,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 99737,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/FastItemFrames-v20.1.5-1.20.1-Forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/FastItemFrames-v20.1.5-1.20.1-Forge.jar",
             "MD5": "168f0c9cc65f5e41f8507563d99e86e7"
           }
         },
@@ -543,7 +543,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 309400,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/fastpaintings-1.20-1.2.7.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/fastpaintings-1.20-1.2.7.jar",
             "MD5": "d14882d3a9ddc95bb3b9dc1e53928e25"
           }
         },
@@ -553,7 +553,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -563,7 +563,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1039046,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.3.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.3.jar",
             "MD5": "33b0f8fe0a8d59fcf9d4e222741ecba7"
           }
         },
@@ -573,7 +573,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7442998,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
             "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
           }
         },
@@ -583,7 +583,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 50042,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/LeavesBeGone-v8.0.0-1.20.1-Forge.jar",
             "MD5": "68c6f0145c5f91511d20eca70efbeb8a"
           }
         },
@@ -593,7 +593,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14789,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/letmedespawn-1.20.x-forge-1.5.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/letmedespawn-1.20.x-forge-1.5.0.jar",
             "MD5": "0ff799ece663ddafab61ad32704fc51c"
           }
         },
@@ -603,7 +603,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 442733,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/marbledsarsenal-1.20.1forge-2.3.0.3.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/marbledsarsenal-1.20.1forge-2.3.0.3.jar",
             "MD5": "a9f18d1874102d62ec710c86205e192e"
           }
         },
@@ -613,7 +613,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 534925,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/marbledsfirstaid-1.20.1forge-1.2.0.0.jar",
             "MD5": "b51b5bc8686ebc95e83312f7efadc923"
           }
         },
@@ -623,7 +623,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 53283,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/marbledsmelees-1.20.1-1.0.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/marbledsmelees-1.20.1-1.0.0.jar",
             "MD5": "ccc10185debaf764c3531f63e4cd9f62"
           }
         },
@@ -633,7 +633,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 121205,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/mcore-1.20.1-1.0.3.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/mcore-1.20.1-1.0.3.0.jar",
             "MD5": "da142d7a183dae31812590b95173915f"
           }
         },
@@ -643,7 +643,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227925,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
           }
         },
@@ -653,7 +653,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 45246,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/modelfix-1.15.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/modelfix-1.15.jar",
             "MD5": "9afd060094be1353e818bd2b7c249cc9"
           }
         },
@@ -663,7 +663,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 826829,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/modernfix-forge-5.26.2+mc1.20.1.jar",
             "MD5": "61332114c9c317080faaf35f8183d67b"
           }
         },
@@ -673,7 +673,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1393921,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/moonlight-1.20-2.16.28-forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/moonlight-1.20-2.16.28-forge.jar",
             "MD5": "16b9f89e07b2c567c610881f784cf6d1"
           }
         },
@@ -683,7 +683,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -693,7 +693,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188673,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
             "MD5": "da8492dc74813d847ba128c23253c376"
           }
         },
@@ -703,7 +703,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
           }
         },
@@ -713,7 +713,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1342987,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
             "MD5": "19f23e3040eaadc7c30ae38f5a3dec68"
           }
         },
@@ -723,7 +723,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 713454,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
             "MD5": "3a46fb58e8ff12213e4dbc909f47a77d"
           }
         },
@@ -733,7 +733,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1508496,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/servercore-forge-1.5.2+1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/servercore-forge-1.5.2+1.20.1.jar",
             "MD5": "7ba2ff373f4f1a44a01513c49a2e8b65"
           }
         },
@@ -743,7 +743,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 45860,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/SkeletonAIFix-v20.1.1-1.20.1-Forge.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/SkeletonAIFix-v20.1.1-1.20.1-Forge.jar",
             "MD5": "32b339281bbe500e080b592b2360c8ed"
           }
         },
@@ -753,7 +753,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 41044,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
             "MD5": "c8cd5ae14d99796fd92c95a353e96211"
           }
         },
@@ -763,7 +763,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 511601,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
             "MD5": "687c18cefa558ca8101ef97914d9ba6b"
           }
         },
@@ -773,7 +773,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 443978,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
             "MD5": "75807590ae2648ecdeb855705868ce59"
           }
         },
@@ -783,7 +783,7 @@
           "type": "File",
           "artifact": {
             "size": 4212,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/files/options.txt",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/files/options.txt",
             "MD5": "48103e221ca8d984dbef862e2380e4a6",
             "path": "options.txt"
           }
@@ -794,7 +794,7 @@
           "type": "File",
           "artifact": {
             "size": 13912171,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.36.2.zip",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.36.2.zip",
             "MD5": "ddfa51fca0dff53ea0b33af783063875",
             "path": "resourcepacks/Dramatic Skys Demo 1.5.3.36.2.zip"
           }
@@ -805,7 +805,7 @@
           "type": "File",
           "artifact": {
             "size": 850941,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
             "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
             "path": "resourcepacks/FreshAnimations_v1.10.4.zip"
           }
@@ -816,7 +816,7 @@
           "type": "File",
           "artifact": {
             "size": 18005894,
-            "url": "https://nafyfy.github.io/servers/post-ap-rp-1.20.1/files/resourcepacks/Icon%20Xaero's%201.21.zip",
+            "url": "https://nafyfy.github.io/nebula-post-ap/servers/post-ap-rp-1.20.1/files/resourcepacks/Icon%20Xaero's%201.21.zip",
             "MD5": "279a1b39ff7299556b0e4ef4736e029a",
             "path": "resourcepacks/Icon Xaero's 1.21.zip"
           }
